@@ -1,0 +1,4 @@
+{
+  "hello": { "id": 1, "content": "Welcome to StationFive" },
+  "goodbye": { "id": 2, "content": "Thank you See you Around" }
+}
